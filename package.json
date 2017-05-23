@@ -1,0 +1,19 @@
+{
+  "name": "email-composer",
+  "version": "1.0.0",
+  "description": "Email Composer with Attachments allows for sending of emails with attachments. Modified from the original Phonegap plugin to accept attachment data directly from JavaScript, encoded in Base64.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iaian/email-composer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iaian/email-composer/issues"
+  },
+  "homepage": "https://github.com/iaian/email-composer#readme"
+}
