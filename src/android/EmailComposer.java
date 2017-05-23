@@ -12,7 +12,7 @@
  *
  */
 
-package com.jcjee.plugins;
+package com.iaian.plugins;
 
 import java.io.File;
 import java.io.FileOutputStream;

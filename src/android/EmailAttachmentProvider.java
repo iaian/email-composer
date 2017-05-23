@@ -1,4 +1,4 @@
-package com.jcjee.plugins;
+package com.iaian.plugins;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -15,7 +15,7 @@ import android.webkit.MimeTypeMap;
 
 public class EmailAttachmentProvider extends ContentProvider {
 	
-	public static final String AUTHORITY = "com.jcjee.plugins.emailcomposer.provider";
+	public static final String AUTHORITY = "com.iaian.plugins.emailcomposer.provider";
 	
 	private UriMatcher uriMatcher;
 
